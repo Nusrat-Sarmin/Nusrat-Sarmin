@@ -14,12 +14,6 @@ An enthusiastic fresher with highly motivated and leadership skills having bache
 - 😄 Pronouns: The future belongs to those who believe in the beauty of their dreams. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nusrat-Sarmin)  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Nusrat Sarmin Tania/)  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Tania Khan)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nusrat-Sarmin&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Nusrat-Sarmin)  
