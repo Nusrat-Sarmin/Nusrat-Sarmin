@@ -20,8 +20,6 @@ An enthusiastic fresher with highly motivated and leadership skills having bache
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Tania Khan)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nusrat-Sarmin)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nusrat-Sarmin&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Nusrat-Sarmin)  
