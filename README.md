@@ -24,6 +24,4 @@ An enthusiastic fresher with highly motivated and leadership skills having bache
 
 ![GitHub metrics](https://metrics.lecoq.io/Nusrat-Sarmin)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Nusrat-Sarmin)  
-
 ![Profile views](https://gpvc.arturio.dev/Nusrat-Sarmin)  
