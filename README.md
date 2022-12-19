@@ -1,7 +1,7 @@
-(https://media.licdn.com/dms/image/C562DAQHPnocwk6AufQ/profile-treasury-image-shrink_800_800/0/1671483789654?e=1672092000&v=beta&t=y26s-4vIoqF_a-bWPI64WCJqhyhsukxwWU4BVkzWOZo)
-
-### Hi there 👋, I am Nusrat Sarmin
+### Hi there 👋, my name is Nusrat Sarmin
 #### SQA Engineer
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/C562DAQHPnocwk6AufQ/profile-treasury-image-shrink_800_800/0/1671483789654?e=1672092000&v=beta&t=y26s-4vIoqF_a-bWPI64WCJqhyhsukxwWU4BVkzWOZo)
+
 
 
 An enthusiastic fresher with highly motivated and leadership skills having bachelors of engineering degree in Software Engineering . Eager to learn new technologies and methodologies. Always willing to innovate the new things which can improve the existing technology. Ability to work as individual as well as in group. Good knowledge in Manual Testing,Automation Testing(Web automation,App Automation)  and basic knowledge in Java Programming language.
