@@ -3,7 +3,7 @@
 
 
 
-An enthusiastic fresher with highly motivated and leadership skills having bachelors of engineering degree in Software Engineering . Eager to learn new technologies and methodologies. Always willing to innovate the new things which can improve the existing technology. Ability to work as individual as well as in group. Good knowledge in Manual Testing,Automation Testing(Web automation,App Automation)  and basic knowledge in Java Programming language.
+I have nearly 2 years of hands-on experience in Automated and Manual testing encompassing bug report writing,test case writing,load testing,API testing,Android App testing . Eager to learn new technologies and methodologies. Always willing to innovate the new things which can improve the existing technology. Ability to work as individual as well as in group. Good knowledge in Manual Testing,Automation Testing(Web automation,App Automation)  and basic knowledge in Java Programming language.
 
 - 🔭 I’m currently working on App Automation Testing 
 - 🌱 I’m currently learning Automation Testing Frameworks 
